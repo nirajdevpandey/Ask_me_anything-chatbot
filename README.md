@@ -1,6 +1,6 @@
 This repository is to implement ask me anything chat-bot with the help of existing implementations here on GitHub. 
 May thanks goes to `anuj`. I meraly created some wrapper to get people understand and implement it easily. 
-I also created some functions which will help the new comers' to check if they have the correct deoendancies installed. 
+I also created some functions which will help the new comers'. For example to check if they have the correct dependencies installed. 
 
 Here is one expample 
 ```python
