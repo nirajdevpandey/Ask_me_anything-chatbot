@@ -24,3 +24,11 @@ lib_check()
 ```
 If you get the message saying `congratualtions` then you are good to go else follow the instructions to install correct library
 versions. One way could  be to go to requirements.txt and follow bellow processes. 
+
+```
+git clone git@github.com:nirajdevpandey/Ask_me_anything-chatbot.git
+
+cd Ask_me_anything-chatbot
+
+pip install -r requirement.txt
+```
