@@ -23,7 +23,7 @@ def lib_check():
 lib_check()
 ```
 If you get the message saying `congratualtions` then you are good to go else follow the instructions to install correct library
-versions. One way could  be to go to follow following processes. 
+versions. One way could  be to follow following instructions. 
 
 ```
 git clone git@github.com:nirajdevpandey/Ask_me_anything-chatbot.git
