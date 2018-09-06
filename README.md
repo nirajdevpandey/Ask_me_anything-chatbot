@@ -30,5 +30,5 @@ git clone git@github.com:nirajdevpandey/Ask_me_anything-chatbot.git
 
 cd Ask_me_anything-chatbot
 
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
