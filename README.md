@@ -33,3 +33,6 @@ cd Ask_me_anything-chatbot
 pip install -r requirements.txt
 ```
 If you have the latest or later version of any used library you will recieve an error. There are some differences between tensorflow/keras older and newer versions and so on...... you might get text encoding error. 
+
+### Here is what the output looklike. 
+![title](https://github.com/nirajdevpandey/Ask_me_anything-chatbot/blob/master/Output/Output.gif)
