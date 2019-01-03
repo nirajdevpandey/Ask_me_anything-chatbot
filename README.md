@@ -1,7 +1,7 @@
 This repository is to implement ask me anything chat-bot with the help of existing implementations here on GitHub. 
 Many thanks goes to `anuj`. I meraly created some wrapper to get people understand and implement it easily. 
 I also created some functions which will help the new comers'. For example to check if they have the correct dependencies installed. 
-
+***
 Here is one expample 
 ```python
 def lib_check(): 
@@ -22,9 +22,10 @@ def lib_check():
 
 lib_check()
 ```
-If you get the message saying `congratualtions` then you are good to go else follow the instructions to install correct library
+***
+If you get the message saying `congratualtions...!` then you are good to go else follow the instructions to install correct library
 versions. One way could  be to follow following instructions. 
-
+***
 ```
 git clone git@github.com:nirajdevpandey/Ask_me_anything-chatbot.git
 
@@ -32,7 +33,8 @@ cd Ask_me_anything-chatbot
 
 pip install -r requirements.txt
 ```
-If you have the latest or later version of any used library you will recieve an error. There are some differences between tensorflow/keras older and newer versions and so on...... you might get text encoding error. 
+***
+>If you have the latest or later version of any used library you will recieve an error. There are some differences between tensorflow/keras older and newer versions and so on...... you might get text encoding error. 
 
 ### Here is what the output looklike. 
 ![title](https://github.com/nirajdevpandey/Ask_me_anything-chatbot/blob/master/Output/Output.gif)
